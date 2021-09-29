@@ -1,6 +1,6 @@
 # Notes of this projects/Topics use in this projects/Topics I learn
 
-## :root pseudo class :-
+## : root pseudo class :-
 - The :root selector matches the document's root element.
 - It can be useful for declaring global CSS variables.
 
@@ -60,4 +60,9 @@
     - With the addEventListener() method you can specify the propagation type by using the "useCapture" parameter:
     - The default value is false, which will use the bubbling propagation, when the value is set to true, the event uses the capturing propagation.
 
-## .Style
+## HTML DOM Style Property :-
+
+- The style property is used to get or set a specific style of an element using different CSS properties.
+- Syntax -`element.style.property = value`
+- For Style Object Properties refer to https://www.w3schools.com/jsref/dom_obj_style.asp
+
